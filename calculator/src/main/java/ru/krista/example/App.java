@@ -21,7 +21,7 @@ public final class App {
         String[] parts;
         int a = 0;
         int b = 0;
-
+        //
         System.out.print("Введите выражение: ");
         Scanner in = new Scanner(System.in);
         String str = in.nextLine();            
